@@ -11,16 +11,16 @@ new p5(sketch => {
 
   function setCanvasSize() {
     if (window.innerWidth >= 1200) {
-      canvasSize = 600;
+      canvasSize = Math.min(500, window.innerWidth - 50);
       scale = 20;
     } else if (window.innerWidth >= 992) {
-      canvasSize = 500;
+      canvasSize = Math.min(450, window.innerWidth - 50);
       scale = 20;
     } else if (window.innerWidth >= 768) {
-      canvasSize = 400;
+      canvasSize = Math.min(350, window.innerWidth - 50);
       scale = 15;
     } else {
-      canvasSize = Math.min(400, window.innerWidth - 30);
+      canvasSize = Math.min(300, window.innerWidth - 50);
       scale = 10;
     }
   }
