@@ -2,7 +2,7 @@
 
 # Snake-Game
 
-A browser port of of the classic Nokia phone game.
+A browser port of the classic Nokia phone game.
 
 <br>
 
