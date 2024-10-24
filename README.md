@@ -6,6 +6,10 @@ A browser port of the classic Nokia phone game.
 
 <br>
 
+https://github.com/user-attachments/assets/7d2ec307-c19c-41c7-8846-854d3db98870
+
+<br>
+
 ## Requirements
 
 ```
