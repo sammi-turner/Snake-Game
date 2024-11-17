@@ -21,7 +21,7 @@ npm
 
 ## Install node modules
 
-```
+```sh
 npm i
 ```
 
@@ -29,7 +29,7 @@ npm i
 
 ## Run the dev server
 
-```
+```sh
 npm run dev
 ```
 
@@ -37,7 +37,7 @@ npm run dev
 
 ## Build the dist folder for deployment
 
-```
+```sh
 npm run build
 ```
 
